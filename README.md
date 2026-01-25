@@ -11,7 +11,7 @@ Atualmente desenvolvo projetos práticos com **Java**, visando evolução para o
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-marques-35a739352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-marques-35a739352/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme0marques)
 
 ---
