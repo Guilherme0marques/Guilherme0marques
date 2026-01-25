@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨‍💻 Guilherme Marques
 
-<!--
-**Guilherme0marques/Guilherme0marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor em formação | Java ☕ | Back-end em evolução 🚀
 
-Here are some ideas to get you started:
+Sou estudante de Análise e desenvolvimento de Sistemas, focado em construir uma base sólida em **Java**,
+lógica de programação e **Programação Orientada a Objetos**.  
+Atualmente desenvolvo projetos práticos com **Java**, visando evolução para o ecossistema
+**Spring Boot** e, futuramente, aplicações Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github" />
+</p>
+
+📌 **Atualmente estudando e praticando:**
+- Java (POO, estruturas de controle, coleções)
+- Git & GitHub
+- JavaScript (fundamentos)
+- Conceitos de Banco de Dados
+
+---
+
+## 🎯 Objetivos
+
+- Consolidar Java e Programação Orientada a Objetos
+- Criar projetos mais completos para portfólio
+- Aprender Spring Boot
+- Evoluir para o desenvolvimento Full Stack
+- Conquistar uma oportunidade como **estagiário ou desenvolvedor júnior**
+
+---
+
+## ✨ Filosofia
+
+> “Código limpo, aprendizado constante e evolução todos os dias.”
+
+⭐ Fique à vontade para explorar meus repositórios!
