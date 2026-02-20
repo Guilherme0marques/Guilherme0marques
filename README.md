@@ -9,7 +9,7 @@ Atualmente desenvolvo projetos práticos com **Node.js** para o ecossistema Back
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-marques-35a739352)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-marques-35a739352/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme0marques)
 
 ---
